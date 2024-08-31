@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn-learn-more{
+    background: transparent;
+    border: 2px solid rgb(249,184,188);
+    border-radius: 50px;
+    &:hover{
+        background: rgb(249,184,188);
+        color: #ffffff;
+    }
+}
+.lsp{
+    letter-spacing: 2px;
+}
